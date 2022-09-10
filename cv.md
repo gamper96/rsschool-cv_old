@@ -36,3 +36,6 @@ alert( result );
 * **University:** Financial University, crisis management bachelour degree
 * **Courses:**
 RS School, JavaScript/Front-end 2022Q3
+
+## English
+B1 (in learning process now)
