@@ -29,3 +29,10 @@ function sum(a, b) {
 let result = sum(1, 2);
 
 alert( result );
+
+## Experience
+
+## Education
+* **University:** Financial University, crisis management bachelour degree
+* **Courses:**
+RS School, JavaScript/Front-end 2022Q3
